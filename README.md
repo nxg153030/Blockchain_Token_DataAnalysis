@@ -1,2 +1,5 @@
 # Blockchain_Token_DataAnalysis
-Data analysis on a blockchain token
+Ever heard of a blockchain token
+A data analysis project on the ZRX blockchain token.
+Predicted the price return for purchasing the token on a given day.
+Check out the project report to learn more!
