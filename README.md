@@ -5,4 +5,4 @@ Check out the project report to learn more!
 
 2. <b> project_code.R </b> contains all the code that was used for the project.
 
-3. Data files - networkzrxtx.txt and zrx 
+3. Data files - <b> networkzrxtx.txt </b> and <b> zrx </b>
